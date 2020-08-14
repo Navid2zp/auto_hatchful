@@ -13,6 +13,8 @@ Driver file should be located in the root of the script (next to `main.py`):
         |-- chromedriver.exe # or chromedriver depending on your OS
 ```
 
+Install the python requirements: `pip install -r requirements.txt`
+
 ## Usage
 Edit the `list.csv` and add as many "name" and "slogan" you want (leave the logo empty) and then run the script: `python main.py`
 
